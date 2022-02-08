@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AwefunProject.iml" filepath="$PROJECT_DIR$/.idea/modules/AwefunProject.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AwefunProject.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AwefunProject.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Awefun.iml" filepath="$PROJECT_DIR$/.idea/modules/Awefun.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Awefun.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Awefun.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/155269587/Awefun.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/155269587/Awefun.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-814729813/Awefun.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/-814729813/Awefun.react-native-screens.iml" />
     </modules>
   </component>
 </project>
